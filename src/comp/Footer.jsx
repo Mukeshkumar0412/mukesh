@@ -12,7 +12,7 @@ export default function Footer() {
                 <i class="fa fa-telegram"></i>
             </div>
             <div class="name">
-                powered by  <u>w3schools</u>
+                powered by  <u>mukesh</u>
             </div>
         </center>
     </footer>
