@@ -26,7 +26,7 @@ export default function Container() {
                     </div>
                     <div class="col">
                         <div class="card">
-                            <img src="/assets/images/paris.jpg" class="card-image"/>
+                            <img src={require("../assets/images/paris.jpg")}  class="card-image"/>
                                 <div class="card-body">
                                     <div class="card-title">Paris </div>
                                     <div class="card-subtitle">Fri 27 Nov 2016</div>
@@ -38,7 +38,7 @@ export default function Container() {
                     </div>
                     <div class="col">
                         <div class="card">
-                            <img src="/assets/images/sanfran.jpg" class="card-image"/>
+                            <img src={require("../assets/images/sanfran.jpg")}  class="card-image"/>
                                 <div class="card-body">
                                     <div class="card-title">San Fransico </div>
                                     <div class="card-subtitle">Fri 27 Nov 2016</div>
